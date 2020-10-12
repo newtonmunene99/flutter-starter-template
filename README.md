@@ -1,5 +1,7 @@
 # Example Starter App
 
+> Optimized for android
+
 ## Prereq
 
 ## Codegen

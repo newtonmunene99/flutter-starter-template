@@ -1,6 +1,6 @@
 # Example Starter App
 
-> Optimized for android
+**Optimized for android**
 
 ## Prereq
 

@@ -1,7 +1,5 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:flutter/services.dart';
 import 'package:logging/logging.dart';
 import 'package:starter/app.dart';
 import 'package:starter/config/example.dart';

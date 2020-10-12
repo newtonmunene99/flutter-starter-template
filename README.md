@@ -32,6 +32,6 @@ The app has different flavor configurations depending on the environment. Availa
 
 ## Generate App Icons
 
-1. Replace app icon in assets/icon/icon.png
+1. Replace app icon in `assets/icon/icon.png`
 2. Run `flutter pub run flutter_launcher_icons:main`
 

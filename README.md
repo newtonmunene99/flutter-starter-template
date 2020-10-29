@@ -2,13 +2,50 @@
 
 **Optimized for android**
 
+## Dependencies
+
+- logger
+- basic_utils
+- built_value
+- google_fonts
+- validators
+- permission_handler
+- flutter_secure_storage
+- states_rebuilder
+- lint
+- flutter_laucher_icons
+
+## Folder Structure
+
+- assets/
+  - google_fonts/
+  - images/
+- lib/
+  - app/
+    - api/
+    - database/
+    - models/
+    - pages/
+    - services
+    - utils
+    - widgets
+  - config/
+  - utils/
+  - app.dart
+  - main_dev.dart
+  - main_prod.dart
+  - main_qa.dart
+- analysis_options.yaml
+- flutter_launcher_icons.yaml
+
 ## Prereq
 
 ## Codegen
 
+This template includes some packages which utilize code generation. Use the following commands, to build once or to keep watching for changes, respectively
+
 - build - `flutter packages pub run build_runner build --delete-conflicting-outputs`
 - watch - `flutter packages pub run build_runner watch --delete-conflicting-outputs`
-
 
 ## Running the app
 

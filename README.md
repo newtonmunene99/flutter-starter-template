@@ -1,6 +1,8 @@
-# Example Starter App
+# Flutter starter template
 
 **Optimized for android**
+
+Opinionated flutter starter template.
 
 ## Dependencies
 
@@ -18,6 +20,8 @@ All dependencies are optional and you can remove any that you won't need
 - [flutter_laucher_icons](https://pub.dev/packages/flutter_launcher_icons/) - This tool simplifies the task of updating your app's laucher icon(s) for different platforms
 
 ## Folder Structure
+
+The rest of the folder structure is pretty basic. I'll just go through what might not be obvouis.
 
 - assets/
   - google_fonts/

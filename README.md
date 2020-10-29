@@ -21,7 +21,7 @@ All dependencies are optional and you can remove any that you won't need
 
 ## Folder Structure
 
-The rest of the folder structure is pretty basic. I'll just go through what might not be obvouis.
+The rest of the folder structure is pretty basic. I'll just go through what might not be obvouis. Flavors have already been set up for android. Please go through [Flutter Ready to Go (flavors, connectivity and more)](http://blog.juliobitencourt.com/2019/03/15/flutter-ready-to-go-flavors-connectivity-and-more/) for more info.
 
 - assets/
   - google_fonts/

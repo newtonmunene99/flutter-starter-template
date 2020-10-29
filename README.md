@@ -6,16 +6,16 @@
 
 All dependencies are optional and you can remove any that you won't need
 
-- [logger]('https://pub.dev/packages/logger') - Small, easy to use and extensible logger which prints beautiful logs. Dart prints good logs using `print()` but logger is an amazing package which prints easy to read and debug logs.
-- [basic_utils]('https://pub.dev/packages/basic_utils') - Contains a lot of useful basic utils for dealing with `String`s, `Date`, `Http`, `Math`, `Color`, email, e.t.c.
-- [built_value]('https://pub.dev/packages/built_value') - Dart classes are amazing but it gets a bit tideous when you have to ovewrite `==` and serialize/deserialize the data. Built value uses codegen to do all of this for you using the standard dart syntax.
-- [google_fonts]('https://pub.dev/packages/google_fonts') - Easily change the font of your App to any [google font]('https://fonts.google.com/')
-- [validators]('https://pub.dev/packages/validators') - You really might not need this if you already have `basic_utils`. The package brings with it validation helpers, really great for using with text fields, validating inputs and data passed by the user.
-- [permission_handler]('https://pub.dev/packages/permission_handler') - Easily check for and request device permission such as location, read/write, camera, biometrics e.t.c.
-- [flutter_secure_storage]('https://pub.dev/packages/flutter_secure_storage') - Store data in the [keychain]('https://developer.apple.com/library/content/documentation/Security/Conceptual/keychainServConcepts/01introduction/introduction.html#//apple_ref/doc/uid/TP30000897-CH203-TP1') for iOS, and the [keystore]('https://developer.android.com/training/articles/keystore.html') on Android. If you really need to use this package, keep in mind that you'll need to set `minSdkVersion` to >= 18.
-- [states_rebuilder]('https://pub.dev/packages/states_rebuilder') - These lots of state and dependency injection packages out there. This solution however really attracts me. The simplicity is amazing. What's more there's zero boilerplate and no annotations or codegen. The business logic is written in pure dart hence enabling complete separation of the UI and the BLoC
-- [lint]('https://pub.dev/packages/lint') - Hand picked lint rules for dart and flutter. Helps to maintain clean code which follows a consistent dart style guide.
-- [flutter_laucher_icons]('https://pub.dev/packages/flutter_launcher_icons/') - This tool simplifies the task of updating your app's laucher icon(s) for different platforms
+- [logger](https://pub.dev/packages/logger) - Small, easy to use and extensible logger which prints beautiful logs. Dart prints good logs using `print()` but logger is an amazing package which prints easy to read and debug logs.
+- [basic_utils](https://pub.dev/packages/basic_utils) - Contains a lot of useful basic utils for dealing with `String`s, `Date`, `Http`, `Math`, `Color`, email, e.t.c.
+- [built_value](https://pub.dev/packages/built_value) - Dart classes are amazing but it gets a bit tideous when you have to ovewrite `==` and serialize/deserialize the data. Built value uses codegen to do all of this for you using the standard dart syntax.
+- [google_fonts](https://pub.dev/packages/google_fonts) - Easily change the font of your App to any [google font](https://fonts.google.com/)
+- [validators](https://pub.dev/packages/validators) - You really might not need this if you already have `basic_utils`. The package brings with it validation helpers, really great for using with text fields, validating inputs and data passed by the user.
+- [permission_handler](https://pub.dev/packages/permission_handler) - Easily check for and request device permission such as location, read/write, camera, biometrics e.t.c.
+- [flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage) - Store data in the [keychain](https://developer.apple.com/library/content/documentation/Security/Conceptual/keychainServConcepts/01introduction/introduction.html#//apple_ref/doc/uid/TP30000897-CH203-TP1) for iOS, and the [keystore](https://developer.android.com/training/articles/keystore.html) on Android. If you really need to use this package, keep in mind that you'll need to set `minSdkVersion` to >= 18.
+- [states_rebuilder](https://pub.dev/packages/states_rebuilder) - These lots of state and dependency injection packages out there. This solution however really attracts me. The simplicity is amazing. What's more there's zero boilerplate and no annotations or codegen. The business logic is written in pure dart hence enabling complete separation of the UI and the BLoC
+- [lint](https://pub.dev/packages/lint) - Hand picked lint rules for dart and flutter. Helps to maintain clean code which follows a consistent dart style guide.
+- [flutter_laucher_icons](https://pub.dev/packages/flutter_launcher_icons/) - This tool simplifies the task of updating your app's laucher icon(s) for different platforms
 
 ## Folder Structure
 
